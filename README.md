@@ -8,7 +8,7 @@
 [![Library: stLearn 1.2.2](https://img.shields.io/badge/Library-stLearn%201.2.2-teal)](https://github.com/BiomedicalMachineLearning/stLearn)
 [![Data: 10x Genomics Visium](https://img.shields.io/badge/Data-10x%20Genomics%20Visium-purple)](https://www.10xgenomics.com)
 [![Paper: Nat Commun 2023](https://img.shields.io/badge/Paper-Nat%20Commun%202023-red)](https://doi.org/10.1038/s41467-023-43120-6)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbdullahMustafa040/stlearn-spatiotemporal-reproduction/blob/main/stLearn_Reproduction/stLearn_Reproduction_updated.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdullahhmustafaa/stlearn-spatiotemporal-reproduction/blob/main/stLearn_Reproduction/stLearn_Reproduction_updated.ipynb)
 
 </div>
 
